@@ -1,0 +1,2 @@
+# Covid-Help-Site
+- A website where volunteers can upload availability of essential resources (medicines, oxygen supply, food etc). Patients infected with the virus can access the contact information of the said volunteers and arrange a handover of goods. The website also offers contact information of various NGOs, offering covid relief. Database backend is implemented using MySQL with appropriate data modelling and connected through Spring Framework. This project won me a 3rd Place finish in TYL Hackathon (2021), hosted by CMRIT Bengaluru.
